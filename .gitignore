@@ -1,0 +1,10 @@
+# Idea
+.idea
+# Gradle
+.gradle
+# Java
+/build/
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
